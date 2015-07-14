@@ -1,4 +1,4 @@
-# MovieFetcher
+# MovieFetcher [![Build Status](https://travis-ci.org/korin/movie_fetcher.svg?branch=master)](https://travis-ci.org/korin/movie_fetcher)
 
 The next film shows in Warsaw.
 
